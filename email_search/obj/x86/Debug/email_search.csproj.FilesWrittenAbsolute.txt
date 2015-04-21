@@ -1,0 +1,5 @@
+/Users/web/Desktop/email_search/email_search/email_search/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/web/Desktop/email_search/email_search/email_search/bin/Debug/email_search.exe.mdb
+/Users/web/Desktop/email_search/email_search/email_search/bin/Debug/email_search.exe
+/Users/web/Desktop/email_search/email_search/email_search/obj/x86/Debug/email_search.exe
+/Users/web/Desktop/email_search/email_search/email_search/obj/x86/Debug/email_search.exe.mdb
